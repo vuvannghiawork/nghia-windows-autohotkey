@@ -1,5 +1,7 @@
 {
-  "extensions": { "recommendations": [] },
+  "extensions": {
+    "recommendations": ["mark-wiemer.vscode-autohotkey-plus-plus"]
+  },
   "folders": [
     {
       "path": "."

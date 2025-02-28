@@ -1,0 +1,5 @@
+﻿PrintScreen::
+
+    Send, #{PrintScreen}
+
+Return
