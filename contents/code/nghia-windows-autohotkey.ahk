@@ -3,8 +3,14 @@
 
 ; ====================================================================================================================================
 
-F4::
-    Run, pythonw   C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-autohotkey\contents\temp\youtube\main.py
+;F4::
+ ;   Run, pythonw   C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-autohotkey\contents\temp\youtube\main.py
+;Return
+; ====================================================================================================================================
+
+
+F6::
+    Run, C:\Users\Admin\Desktop\NghiaGithub\nghia-notes\nghia-notes.code-workspace
 Return
 ; ====================================================================================================================================
 
